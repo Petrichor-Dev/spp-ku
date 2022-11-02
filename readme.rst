@@ -7,7 +7,7 @@ Aplikasi pembayaran spp sekolah. Terdiri dari 3 halaman. Halaman admin, halaman 
 ############
 Login Admin
 ############
-username admin : admin27 | password admin : admin123
+username : admin27 | password : admin123
 
 ##############
 Login Petugas
